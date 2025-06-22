@@ -1,8 +1,8 @@
 [
   {
     "file": "/home/nemila/Videos/Media/Julie London - Fly Me To The Moon - Best of Smooth Jazz.mp4",
-    "stage": "wasabi",
-    "message": "File media/Julie London - Fly Me To The Moon - Best of Smooth Jazz.mp4 already exists and is complete, skipping upload",
-    "date": "2025-06-22T13:26:07.994Z"
+    "stage": "start",
+    "message": "Invalid filename",
+    "date": "2025-06-22T19:04:27.899Z"
   }
 ]
